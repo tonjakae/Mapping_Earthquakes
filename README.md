@@ -31,6 +31,10 @@ Basil and Sadhana would like to see the earthquake data in relation to the tecto
   * The tectonic layer group variable is added to the map
 * The earthquake data and tectonic plate data displays on the map when the page loads
 
+### [Code Located Here](https://github.com/tonjakae/Mapping_Earthquakes/blob/main/tectonic_plate_starter_logic.js)
+
+![image](https://user-images.githubusercontent.com/87340105/156868692-e5d8139d-ef0e-4d7b-b7a7-c8e0337b7214.png)
+
 # Deliverable 2 Requirements:
 * The major earthquake data is added as a third layer group
 * The major earthquake data is added to the overlay object
@@ -39,11 +43,20 @@ Basil and Sadhana would like to see the earthquake data in relation to the tecto
   * The major earthquake data is passed to the geoJSON() layer.
   * The geoJSON() layer creates a circle for each major earthquake, and adds a popup for each circle to display the magnitude and location of the earthquake
   * The major earthquake layer group variable is added to the map
-* All the earthquake data and tectonic plate data are displayed on the map when the page loads and the datasets can be toggled on or off (5 pt)
+* All the earthquake data and tectonic plate data are displayed on the map when the page loads and the datasets can be toggled on or off
+
+# Deliverable 3 Requirements:
+* A third map tile layer is created
+* The third map is added to the overlay object
+* All the earthquake data and tectonic plate data are displayed on the all maps of the webpage
+
+![image](https://user-images.githubusercontent.com/87340105/156869080-4cd20344-8c2b-4f35-928c-49ae845e7b03.png)
+
+![image](https://user-images.githubusercontent.com/87340105/156869091-97855e74-df1e-425a-b525-fe6d026d536c.png)
 
 
 
-### [Code Located Here](https://github.com/tonjakae/Mapping_Earthquakes/blob/main/tectonic_plate_starter_logic.js)
 
-![image](https://user-images.githubusercontent.com/87340105/156868692-e5d8139d-ef0e-4d7b-b7a7-c8e0337b7214.png)
+
+
 
