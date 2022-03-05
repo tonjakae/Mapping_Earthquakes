@@ -6,8 +6,6 @@ Basil and Sadhana would like to see the earthquake data in relation to the tecto
 ## Resources
 #### Data Sources: 
 * tectonic_plate_starter_logic.js
-* tectonic_plate_starter_logic.js
-* tectonic_plate_starter_logic.js
 * index.html
 #### Data Tools: 
 * JavaScript
@@ -18,10 +16,34 @@ Basil and Sadhana would like to see the earthquake data in relation to the tecto
 * ECMAScript
 * Visual Studio Code 1.50.0
 
-# Deliverable 1
-### Add Tectonic Plate Data [Code Located Here](https://github.com/tonjakae/Mapping_Earthquakes/blob/main/tectonic_plate_starter_logic.js)
+## This new assignment consists of three technical analysis deliverables. I will submit the following:
+
+* Deliverable 1: Add Tectonic Plate Data
+* Deliverable 2: Add Major Earthquake Data
+* Deliverable 3: Add an Additional Map
+
+# Deliverable 1 Requirements: 
+* The tectonic plate data is added as a second layer group
+* The tectonic plate data is added to the overlay object
+* The d3.json() callback is working and does the following:
+  * The tectonic plate data is passed to the geoJSON() layer
+  * The geoJSON() layer adds color and width to the tectonic plate lines
+  * The tectonic layer group variable is added to the map
+* The earthquake data and tectonic plate data displays on the map when the page loads
+
+# Deliverable 2 Requirements:
+* The major earthquake data is added as a third layer group
+* The major earthquake data is added to the overlay object
+* The d3.json() callback is working and does the following:
+  * Sets the color and diameter of each earthquake.
+  * The major earthquake data is passed to the geoJSON() layer.
+  * The geoJSON() layer creates a circle for each major earthquake, and adds a popup for each circle to display the magnitude and location of the earthquake
+  * The major earthquake layer group variable is added to the map
+* All the earthquake data and tectonic plate data are displayed on the map when the page loads and the datasets can be toggled on or off (5 pt)
+
+
+
+### [Code Located Here](https://github.com/tonjakae/Mapping_Earthquakes/blob/main/tectonic_plate_starter_logic.js)
 
 ![image](https://user-images.githubusercontent.com/87340105/156868692-e5d8139d-ef0e-4d7b-b7a7-c8e0337b7214.png)
 
-* Deliverable 2: Add Major Earthquake Data
-* Deliverable 3: Add an Additional Map
