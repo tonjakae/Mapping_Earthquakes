@@ -19,6 +19,9 @@ Basil and Sadhana would like to see the earthquake data in relation to the tecto
 * Visual Studio Code 1.50.0
 
 # Deliverable 1
-### Add Tectonic Plate Data [Click Here](https://github.com/tonjakae/Mapping_Earthquakes/blob/main/tectonic_plate_starter_logic.js)
+### Add Tectonic Plate Data [Code Located Here](https://github.com/tonjakae/Mapping_Earthquakes/blob/main/tectonic_plate_starter_logic.js)
+
+![image](https://user-images.githubusercontent.com/87340105/156868692-e5d8139d-ef0e-4d7b-b7a7-c8e0337b7214.png)
+
 * Deliverable 2: Add Major Earthquake Data
 * Deliverable 3: Add an Additional Map
