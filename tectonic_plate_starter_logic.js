@@ -136,7 +136,7 @@ legend.onAdd = function() {
     return div;
   };
 
-  // Finally, we our legend to the map.
+  // Finally, we add our legend to the map.
   legend.addTo(map);
 
 
